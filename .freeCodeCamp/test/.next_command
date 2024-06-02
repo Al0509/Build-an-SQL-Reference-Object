@@ -8,3 +8,4 @@ git branches
 git branch
 git branch -d fix/add-missing-rename-references
 git log --oneline
+git checkout -b feat/add-gitignore
