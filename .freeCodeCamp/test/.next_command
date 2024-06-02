@@ -22,3 +22,4 @@ touch sample.env
 git status
 echo "SECRET=" > sample.env
 git add .
+git commit -m "feat: add sample.env"
